@@ -94,8 +94,4 @@ Developed a system to fetch grocery store data based on ZIP codes, connecting to
 
 ---
 
-### Support:
-
-<p><a href="https://www.buymeacoffee.com/TamPNguyen"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@TamPNguyen" /></a></p><br><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TamPNguyen&show_icons=true&locale=en&layout=compact" alt="TamPNguyen" /></p>
