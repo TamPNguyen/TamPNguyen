@@ -4,18 +4,18 @@
   </p>
   Hello 👋 Tam Phan-Nguyen here 
   <br />
-  I'm Your Future Full-Stack Software Engineer 😁😁😁
+  I'm Your Future Software Engineer 😁😁😁
 </h1>
 
-As a Software Engineer with extensive full-stack experience, I specialize in developing, designing, and deploying scalable applications. I have a solid background in back-end and front-end technologies, cloud infrastructure, and CI/CD pipelines, with a proven track record of optimizing system performance. Currently, I'm seeking a Software Engineering role where I can provide impactful solutions in fast-paced environments.
+As a Software Engineer with extensive back-end and frontend experience, I specialize in developing, designing, and deploying scalable applications. I have a solid background in back-end technologies, cloud infrastructure, and CI/CD pipelines, with a proven track record of optimizing system performance. Currently, I'm seeking a Software Engineering role where I can provide impactful solutions in fast-paced environments.
 
 I am passionate about learning new things and always eager to leverage emerging technologies to create new applications to solve problems around me. Turning ideas into impactful apps is what gets me excited.
 
 ### Let me give you a glimpse of my diverse skill set:
 
 * **Languages |** Python, JavaScript, TypeScript, Powershell, VBA, SQL, HTML, CSS, Tailwind CSS
-* **Front-End |** Svelte, React, Flowbite, Material UI, Shadow & Virtual DOM manipulation
 * **Back-End |** OAuth, FastAPI, Flask, OpenSSL, Firebase, MongoDB, PostgreSQL, WebSockets, REST APIs, API Integrations
+* **Front-End |** Svelte, React, Flowbite, Material UI, Shadow & Virtual DOM manipulation
 * **Testing/Deployment |** Selenium, Postman, Playwright (E2E), Vitest (Unit & Integration), GCP, AWS, Docker
 * **Tools |** VS Code, Jira, Git (Version Control), Swagger, Intune, Active Directory, Android/iOS, ServiceNow, Sharepoint, MS VBA, Microsoft Office Suite
 
