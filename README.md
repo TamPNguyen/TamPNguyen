@@ -21,30 +21,6 @@ I am passionate about clean, efficient code and am always eager to leverage emer
 
 ---
 
-### Work Experience
-
-**Software Engineer** | VietSpark, LLC | Dec 2024 - Present  
-- Architected and implemented scalable backend databases and microservices for **VS Chef** using Firebase and FastAPI, resulting in significant improvements in system reliability and performance.  
-- Pioneered the integration of OpenAI as a core application feature, driving breakthrough enhancements in natural language processing, image generation, and interactive user experiences.  
-- Collaborated on maintaining dynamic frontend functionalities with Tailwind CSS and Svelte, delivering responsive and visually engaging user interfaces that boosted user engagement.
-
-**IT Installer** | Open Technology Group, INC - FDA White Oaks | Nov 2023 - Present  
-- Orchestrated high-stakes IT deployments for over 7,000 FDA employees in a regulated environment, ensuring robust and secure system operations.  
-- Engineered proprietary VBA automation solutions for Outlook and Excel, reducing manual processing times by up to 40% and streamlining workflow efficiency.  
-- Led comprehensive Windows deployments, managing large-scale software installations and seamless data migrations across multi-device ecosystems while ensuring zero downtime.  
-- Spearheaded mentorship and training initiatives for new team members, elevating team performance and reducing onboarding time.
-
-**Help Desk Client Tech Support II** | HumanTouch, LLC | July 2023 - Nov 2023  
-- Diagnosed and resolved multifaceted hardware, software, and network issues, consistently reducing resolution times and increasing end-user satisfaction.  
-- Delivered comprehensive remote and on-site support in a high-demand environment, ensuring optimal system performance and minimizing business interruptions.  
-- Systematically documented issues and curated a robust internal knowledge base using ServiceNow and SharePoint, which enhanced team efficiency and support quality.
-
-**Mobile Repair Technician** | Cell Phone Repair Center | Mar 2016 - Jun 2020  
-- Diagnosed and resolved software and hardware issues, applying system analysis, debugging, and structured troubleshooting methodologies.  
-- Optimized inventory and parts invoicing using software-based tracking systems, administering database management, automation, and workflow processes.
-
----
-
 ### Projects
 
 **[J.A.R.V.I.S. | Compliance-focused Cybersecurity and Environment Integration](https://github.com/TamPNguyen/OAI1)** | 2025  
