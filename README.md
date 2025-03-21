@@ -7,9 +7,9 @@
   I'm Your Future Full-Stack Software Engineer 😁😁😁
 </h1>
 
-As a Software Engineer with extensive full-stack experience, I specialize in designing, developing, and deploying scalable applications. I have a solid background in both front-end and back-end technologies, cloud infrastructure, and CI/CD pipelines, with a proven track record of optimizing system performance. Currently, I'm seeking a Software Engineering role where I can provide impactful solutions in fast-paced environments.
+As a Software Engineer with extensive full-stack experience, I specialize in developing, designing, and deploying scalable applications. I have a solid background in back-end and front-end technologies, cloud infrastructure, and CI/CD pipelines, with a proven track record of optimizing system performance. Currently, I'm seeking a Software Engineering role where I can provide impactful solutions in fast-paced environments.
 
-I am passionate about clean, efficient code and am always eager to leverage emerging technologies and innovative design patterns to create user-centric applications.
+I am passionate about learning new things and always eager to leverage emerging technologies to create new applications to solve problems around me. Turning ideas into impactful apps is what gets me excited.
 
 ### Let me give you a glimpse of my diverse skill set:
 
