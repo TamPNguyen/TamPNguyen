@@ -4,7 +4,7 @@
   </p>
   Hello 👋 Tam Phan-Nguyen here 
   <br />
-  I'm Your Future Software Engineer 😁😁😁
+  I'm Your Future Software Engineer 😁
 </h1>
 
 As a Software Engineer with extensive back-end and frontend experience, I specialize in developing, designing, and deploying scalable applications. I have a solid background in back-end technologies, cloud infrastructure, and CI/CD pipelines, with a proven track record of optimizing system performance. Currently, I'm seeking a Software Engineering role where I can provide impactful solutions in fast-paced environments.
