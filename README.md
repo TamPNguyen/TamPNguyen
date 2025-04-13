@@ -24,7 +24,7 @@ I am passionate about learning new things and always eager to leverage emerging 
 ### Projects
 
 **[VS Chef AI Web Application](https://github.com/LeeNPham/VietSpark_BIT_Team_Project)** | 2025  
-AI-powered Vietnamese cooking App. Get inspired with unique recipes tailored to your taste.
+Built AI-powered Vietnamese cooking App. Get inspired with unique recipes tailored to your taste.
 
 **[Google Cleaner Search Extension](https://github.com/TamPNguyen/clean_google_search_extension)** | 2025  
 Created an extension that detects and removes sponsor links and ads from Google search results, improving browsing speed without compromising privacy.
