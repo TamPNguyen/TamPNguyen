@@ -23,14 +23,14 @@ I am passionate about learning new things and always eager to leverage emerging 
 
 ### Projects
 
-**[J.A.R.V.I.S. | Compliance-focused Cybersecurity and Environment Integration](https://github.com/TamPNguyen/OAI1)** | 2025  
-Developed an AI assistant based on the GPT-4.0 architecture, with a primary focus on prioritizing compliance for cybersecurity-related inquiries and providing real-time information about the user's current environment. Integrated a voice streaming API to convert text to speech for seamless user interaction.  
+**[VS Chef AI Web Application](https://github.com/LeeNPham/VietSpark_BIT_Team_Project)** | 2025  
+AI-powered Vietnamese cooking App. Get inspired with unique recipes tailored to your taste.
 
 **[Google Cleaner Search Extension](https://github.com/TamPNguyen/clean_google_search_extension)** | 2025  
 Created an extension that detects and removes sponsor links and ads from Google search results, improving browsing speed without compromising privacy.
 
-**[Local Grocery Retriever](https://github.com/TamPNguyen/local_groceries125)** | 2025  
-Developed a system to fetch grocery store data based on ZIP codes, connecting to the YellowPages website and querying over 44,000 locations for accurate and up-to-date grocery store information.
+**[J.A.R.V.I.S. | Compliance-focused Cybersecurity and Environment Integration](https://github.com/LeeNPham/OAI1)** | 2024  
+Developed an AI assistant based on the GPT-4.0 architecture, with a primary focus on prioritizing compliance for cybersecurity-related inquiries and providing real-time information about the user's current environment. Integrated a voice streaming API to convert text to speech for seamless user interaction.
 
 ---
 
